@@ -1,0 +1,4 @@
+
+public enum Animal {
+	CAT("Fergus"), DOG("Fido"), MOUSE("Jerry");
+}

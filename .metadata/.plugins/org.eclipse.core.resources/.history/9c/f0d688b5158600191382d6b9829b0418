@@ -1,0 +1,22 @@
+
+public class App {
+
+	public static void main(String[] args) {
+		int value = 4;
+		calculate(value);
+	}
+	
+	private static int calculate(int value) {
+		System.out.println("Hello " + value);
+		
+		if(value == 1) {
+			return 1;
+		}
+		value--;
+		System.out.println("Now I took 1 from you... MWA-HA-HA " + value);
+		
+		calculate(value - 1);
+	}
+	return calculate(value -1) * value;
+
+}

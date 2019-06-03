@@ -1,0 +1,6 @@
+
+public class Car {
+	Machine mach1 = new Machine();
+	
+		Car car1 = new Car();
+}

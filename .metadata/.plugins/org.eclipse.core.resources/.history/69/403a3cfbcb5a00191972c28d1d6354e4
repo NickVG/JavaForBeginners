@@ -1,0 +1,29 @@
+import java.util.*; 
+
+public class App {
+
+	public static void main(String[] args) {
+		int value = 7;
+		int[] values;
+		values = new int[3];
+		System.out.println(Arrays.toString(values));
+		
+		Strings();
+
+	}
+	
+	public static void Strings() {
+		String[] words = new String[3];
+		
+		words[0] = "Hi";
+		words[1] = "to";
+		words[2] = "you";
+		
+		System.out.println(words[2]);
+		
+		for(String word: words) {
+			System.out.println(word);
+		}
+	}
+
+}
