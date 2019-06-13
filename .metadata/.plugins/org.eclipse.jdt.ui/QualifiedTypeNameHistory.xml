@@ -9,4 +9,6 @@
 <fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="java.io.FileReader"/>
 <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
+<fullyQualifiedTypeName name="Robot.Battery"/>
 </qualifiedTypeNameHistroy>
