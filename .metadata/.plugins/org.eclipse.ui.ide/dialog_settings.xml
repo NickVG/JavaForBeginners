@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+<<<<<<< HEAD
+		<item value="C:\Users\nv.gorbunov\Desktop\JavaForBeginners-master\JavaForBeginners-master"/>
+	</list>
+=======
+		<item value="C:\Users\HOME\eclipse-workspace\JavaForBeginners"/>
+	</list>
 	<section name="CleanDialogSettings">
-		<item value="500" key="DIALOG_WIDTH"/>
-		<item value="true" key="TOGGLE_SELECTED"/>
-		<item value="402" key="DIALOG_HEIGHT"/>
-		<item value="230" key="DIALOG_X_ORIGIN"/>
-		<item value="255" key="DIALOG_Y_ORIGIN"/>
+		<item key="DIALOG_WIDTH" value="500"/>
+		<item key="TOGGLE_SELECTED" value="true"/>
+		<item key="DIALOG_HEIGHT" value="402"/>
+		<item key="DIALOG_X_ORIGIN" value="230"/>
+		<item key="DIALOG_Y_ORIGIN" value="255"/>
 	</section>
+>>>>>>> fddf1b92a5b3baaa592fe35e76a7f9f38b0e83ca
 	<section name="NewWizardAction">
-		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 			<item value="org.eclipse.jdt.ui.java"/>
 		</list>
 	</section>
 	<section name="SaveAsDialogSettings">
-		<item value="525" key="DIALOG_WIDTH"/>
-		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
-		<item value="580" key="DIALOG_HEIGHT"/>
-		<item value="225" key="DIALOG_X_ORIGIN"/>
-		<item value="137" key="DIALOG_Y_ORIGIN"/>
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<item key="DIALOG_HEIGHT" value="580"/>
+		<item key="DIALOG_X_ORIGIN" value="225"/>
+		<item key="DIALOG_Y_ORIGIN" value="137"/>
 	</section>
 </section>
