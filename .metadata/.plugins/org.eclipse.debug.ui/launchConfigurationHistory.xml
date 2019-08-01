@@ -3,6 +3,7 @@
 <launchGroup id="org.eclipse.debug.ui.launchGroup.debug">
 <mruHistory>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Lesson24&quot;/&gt;&#13;&#10;"/>
 =======
 <<<<<<< HEAD
@@ -24,6 +25,9 @@
 =======
 >>>>>>> fddf1b92a5b3baaa592fe35e76a7f9f38b0e83ca
 >>>>>>> c1c6dc6b614d2a46098cb8e953cc3dbc83d6110c
+=======
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Reverter&quot;/&gt;&#13;&#10;"/>
+>>>>>>> 7c61ece84aaf3853959f4630022a9fede3b8ff60
 </mruHistory>
 <favorites/>
 </launchGroup>
@@ -34,6 +38,7 @@
 <launchGroup id="org.eclipse.eclemma.ui.launchGroup.coverage">
 <mruHistory>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Lesson24&quot;/&gt;&#13;&#10;"/>
 =======
 <<<<<<< HEAD
@@ -55,6 +60,9 @@
 =======
 >>>>>>> fddf1b92a5b3baaa592fe35e76a7f9f38b0e83ca
 >>>>>>> c1c6dc6b614d2a46098cb8e953cc3dbc83d6110c
+=======
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Reverter&quot;/&gt;&#13;&#10;"/>
+>>>>>>> 7c61ece84aaf3853959f4630022a9fede3b8ff60
 </mruHistory>
 <favorites/>
 </launchGroup>
@@ -65,6 +73,7 @@
 <launchGroup id="org.eclipse.debug.ui.launchGroup.run">
 <mruHistory>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Lesson24&quot;/&gt;&#13;&#10;"/>
 =======
 <<<<<<< HEAD
@@ -86,6 +95,9 @@
 =======
 >>>>>>> fddf1b92a5b3baaa592fe35e76a7f9f38b0e83ca
 >>>>>>> c1c6dc6b614d2a46098cb8e953cc3dbc83d6110c
+=======
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Reverter&quot;/&gt;&#13;&#10;"/>
+>>>>>>> 7c61ece84aaf3853959f4630022a9fede3b8ff60
 </mruHistory>
 <favorites/>
 </launchGroup>
