@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\nick_\OneDrive\Документы\GitHub\JavaForBeginners"/>
 		<item value="C:\Users\HOME\eclipse-workspace\JavaForBeginners"/>
 	</list>
 </section>

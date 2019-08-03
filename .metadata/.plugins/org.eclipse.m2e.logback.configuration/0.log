@@ -2633,3 +2633,4 @@ java.nio.file.AccessDeniedException: c:\Program Files\Git\mingw64\etc\.probe-fd5
 	at org.eclipse.egit.core.internal.job.JobUtil$1.run(JobUtil.java:55) [org.eclipse.egit.core_5.4.0.201906121030-r.jar:na]
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
 >>>>>>> 7c61ece84aaf3853959f4630022a9fede3b8ff60
+2019-08-03 16:39:52,280 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
