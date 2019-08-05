@@ -12,7 +12,7 @@ public class Reverter {
 
 	public static void main(String[] args) {
 //		System.out.print(new String((new DataReciever("C:\\test.txt").dataToChange())));
-		new DataReciever("C:\\test.txt").fileReverted();
+		new DataReciever("C:\\test.txt");
 
 	}
 
@@ -28,6 +28,7 @@ class DataReciever {
 	 */
 	DataReciever(String fileName) {
 		this.fileName = fileName;
+		fileReverted();
 	}
 
 	StringBuilder data = new StringBuilder("");
@@ -69,7 +70,7 @@ class DataReciever {
 		dataToChange();
 		try (BufferedWriter bw = new BufferedWriter(new FileWriter(new File("test1.txt")))) {
 			String out = new String(result);
-			System.out.println(out);
+//			System.out.println(out);
 			bw.write(new String(out));
 		} catch (IOException e) {
 			System.out.println("Не могу прочитать файл " + "test1.txt");
